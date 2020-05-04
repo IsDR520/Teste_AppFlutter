@@ -1,4 +1,4 @@
-# cozinhadocasa
+# cozinhando em casa
 
 Novo aplicativo de comida
 
